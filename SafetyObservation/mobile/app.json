@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Safety Observation",
+    "slug": "safety-observation",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {},
+    "experiments": {
+      "baseUrl": "/SafetyObservation"
+    }
+  }
+}
